@@ -1,0 +1,6 @@
+framework module Pods_BPFoundation_Example {
+  umbrella header "Pods-BPFoundation_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

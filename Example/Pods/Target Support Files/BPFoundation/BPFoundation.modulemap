@@ -1,0 +1,6 @@
+framework module BPFoundation {
+  umbrella header "BPFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

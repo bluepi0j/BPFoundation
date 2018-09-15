@@ -1,0 +1,22 @@
+{
+  "name": "BPFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of BPFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bluepi0j/BPFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bluepi0j": "vicwang95@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/bluepi0j/BPFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BPFoundation/Classes/**/*"
+}

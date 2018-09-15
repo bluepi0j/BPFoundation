@@ -1,0 +1,16 @@
+PODS:
+  - BPFoundation (0.1.0)
+
+DEPENDENCIES:
+  - BPFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  BPFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BPFoundation: 56218d5efbabdcd9c0ae5e0adf349595457eaa1f
+
+PODFILE CHECKSUM: 446367b60acf7055497862d82f726b385428300a
+
+COCOAPODS: 1.5.3
