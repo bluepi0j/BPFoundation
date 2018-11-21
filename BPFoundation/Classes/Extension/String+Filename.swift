@@ -3,7 +3,6 @@ import Foundation
 public extension String {
     
     func fileName() -> String {
-        
         if let fileNameWithoutExtension = NSURL(fileURLWithPath: self).deletingPathExtension?.lastPathComponent {
             return fileNameWithoutExtension
         } else {
@@ -12,7 +11,6 @@ public extension String {
     }
     
     func fileExtension() -> String {
-        
         if let fileExtension = NSURL(fileURLWithPath: self).pathExtension {
             return fileExtension
         } else {
